@@ -4030,7 +4030,7 @@ textarea.form-control-lg {
 .navbar-toggler:focus {
   text-decoration: none;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem;
+  box-shadow: 0 0 0 0rem;
 }
 
 .navbar-toggler-icon {
@@ -6217,7 +6217,7 @@ textarea.form-control-lg {
   right: 0;
   left: 0;
   z-index: 1030;
-  background-color: #777777;
+  background-color: #ffffff;
 }
 
 .fixed-bottom {
@@ -10961,7 +10961,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #777;
+    background-color: #ffffff;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
