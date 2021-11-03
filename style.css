@@ -1355,6 +1355,21 @@ textarea:focus ~ .highlight {
   .coming-soon-area .sidebar-widget-area .title {
     color: #ffffff; }
 
+    .feature.section {
+      padding-bottom: 100px; }
+    
+    .feature .feature-box {
+      margin-bottom: 40px; }
+      .feature .feature-box i {
+        font-size: 30px;
+        margin-bottom: 10px;
+        display: inline-block; }
+      .feature .feature-box h4 {
+        font-weight: bold;
+        margin-bottom: 8px; }
+      .feature .feature-box p {
+        line-height: 1.1; }
+
 .sonar-wrapper {
   position: relative;
   z-index: 0; }
